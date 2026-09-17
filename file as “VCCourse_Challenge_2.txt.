@@ -1,1 +1,9 @@
+This is my VCCourse Challenge 2 file.
+cd /path/to/Tech-Academy-Projects
+git status
+git add VCCourse_Challenge_2.txt
+git commit -m "Add VCCourse Challenge 2"
+git push origin main
+git push origin master
+git log -1
 
